@@ -48,7 +48,7 @@ module "vpc" {
 
   tags = {
     Environment = terraform.workspace
-    Team        = "infra"
+    Team        = "ninja"
   }
 
 }
